@@ -1,0 +1,1 @@
+# 12Challenges_QR_code_component
